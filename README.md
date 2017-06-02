@@ -1,8 +1,8 @@
-# Struggle-in-the-Aquarium-2
+# Struggle-in-the-Aquarium
 
 Battle against starfish. 
 
-Can be played here: https://kmui2.github.io/Struggle-in-the-Aquarium-2/ 
+Can be played here: https://kmui2.github.io/Struggle-in-the-Aquarium-3/ 
 
 
 ## How to Play:
